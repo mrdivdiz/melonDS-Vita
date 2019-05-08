@@ -1,6 +1,8 @@
 # melonDS
 
 DS emulator, sorta
+Okay, i just want to improve and practice my C and HW theory skills.
+All thanks to Rinnegatamante, hardest things is primary things.
 
 The goal is to do things right and fast, akin to blargSNES (but hopefully better). But also to, you know, have a fun challenge :)
 
@@ -40,29 +42,15 @@ make
 ### Windows:
 
  * use CodeBlocks
- * or receive golden cookies if you get Cmake to work
+ * or receive golden cookies if you get Cmake to work (i don`t get this shit)
 
-Build system is not set in stone.
+## TODO LIST (MY OWN)
 
-## TODO LIST
+ * improve  UI, more config things.
+ * Перевести на православный Russian и, возможно, не менее крутющий German.На второй язык - наверное.
+ * More like DraStic all things.
+ * HWA
 
- * improve libui and the emulator UI
- * fix occasional sound crackling in games that use surround (timing issue?)
- * support for rendering screens to separate windows
- * emulating some fancy addons
- * other non-core shit (debugger, graphics viewers, cheat crapo, etc)
- 
-### TODO LIST FOR LATER
-
- * hardware renderer for 3D (w/ upscaling and fancy shit)
- * better wifi
- * maybe emulate flashcarts or other fancy hardware
- * big-endian compatibility (Wii, etc)
- * LCD refresh time (used by some games for blending effects)
- * any feature you can eventually ask for that isn't outright stupid
  
 ## Credits
-
- * Martin for GBAtek, a good piece of documentation
- * Cydrak for the extra 3D GPU research
- * All of you comrades who have been testing melonDS, reporting issues, suggesting shit, etc
+ * Rinnegatamante for platform to make things (and others)
