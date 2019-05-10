@@ -3,6 +3,8 @@
 DS emulator, sorta
 Okay, i just want to improve and practice my C and HW theory skills.
 All thanks to Rinnegatamante, hardest things is primary things.
+For now im currently ran out of memory of my vita (32 gb microSD + vita sd card 16 gb).
+Sorry for that, but im unable to test it for a while.
 
 The goal is to do things right and fast, akin to blargSNES (but hopefully better). But also to, you know, have a fun challenge :)
 
@@ -50,6 +52,7 @@ make
  * Перевести на православный Russian и, возможно, не менее крутющий German.На второй язык - наверное.
  * More like DraStic all things.
  * HWA
+ * Make Time Hollow and CoD Black Ops work perfectly (maybe)
 
  
 ## Credits
