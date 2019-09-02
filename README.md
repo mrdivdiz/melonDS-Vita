@@ -42,7 +42,30 @@ make
 ```
 
 ### Windows:
+YEEEEEE I tried and now i can compile this homebrew from windows.
+Here is the guide:
+- Windows 10 required
+- Install linux (google it)
+- Run bash (cmd -> bash command)
+- Install vitaSDK with linux way.
+set vitaSDK to path:
+export VITASDK=/usr/local/vitasdk
+export PATH=$VITASDK/bin:$PATH
+(i dont know why but i have to do path exports every time i run bash)
+- now if vitaSDK properly installed, run 
+echo $VITASDK
+and if you correct, it must type path to vitasdk folder.
+- Now compile:
+cd to_where_you_want_your_project
+- Run git clone https://github.com/mrdivdiz/melonDS-Vita-div.git
+- Install 7zip ("sudo apt-get install p7zip-full")
+- Run mkdir -p build (make "build" dir)
+- Run make
+if there is param.sfo error, just put param.sfo to /build and run make again
+- VPK ready, just install it
+(If that compile way is strange, thats okay, im a newbie)
 
+Rinnegatamante windows (any version) ways:
  * use CodeBlocks
  * or receive golden cookies if you get Cmake to work (i don`t get this shit)
 
