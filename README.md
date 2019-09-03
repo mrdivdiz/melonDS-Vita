@@ -21,6 +21,15 @@ melonDS requires BIOS/firmware copies from a DS. Files required:
 Firmware boot requires a firmware dump from an original DS or DS Lite.
 DS firmwares dumped from a DSi or 3DS aren't bootable and only contain configuration data, thus they are only suitable when booting games directly.
 
+games and firmware ROMs must be placed in ux0:data/melonDS/
+for now you have to create melonDS folder manually (lol)
+Then adjust setting by [] button and press X to run selected game.
+
+### Compability:
+
+CoD MW3 running OK, showing 3D effects properly, though its not playable due to ~ 1 FPS.
+I used LOLIcon overclocked mode, settings are default but screen mode i choosed is side by side because i used to it.
+
 ### Possible firmware sizes
 
  * 128KB: DSi/3DS DS-mode firmware (reduced size due to lacking bootcode)
@@ -29,7 +38,7 @@ DS firmwares dumped from a DSi or 3DS aren't bootable and only contain configura
 
 DS BIOS dumps from a DSi or 3DS can be used with no compatibility issues. DSi BIOS dumps (in DSi mode) are not compatible. Or maybe they are. I don't know.
 
-As for the rest, the interface should be pretty straightforward. If you have a question, don't hesitate to ask, though!
+As for the rest, the interface should be pretty straightforward.
 
 ## How to build
 
