@@ -11,6 +11,8 @@ The goal is to do things right and fast, akin to blargSNES (but hopefully better
 
 The source code is provided under the GPLv3 license.
 
+
+
 ## How to use
 
 melonDS requires BIOS/firmware copies from a DS. Files required:
@@ -86,6 +88,8 @@ Rinnegatamante windows (any version) ways:
  * More like DraStic all things.
  * HWA
  * Make Time Hollow and CoD Black Ops work perfectly (maybe)
+ # For now, we have to wait untill frangar can finish his GXM driver.
+ And this is my first emulation attempt, so it may be hard for me...
 
  
 ## Credits
